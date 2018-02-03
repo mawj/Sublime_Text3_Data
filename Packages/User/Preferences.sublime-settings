@@ -1,10 +1,12 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Monokai.tmTheme",
 	"draw_white_space": "all",
 	"font_size": 14,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"theme": "predawn-DEV.sublime-theme"
+	"theme": "Boxy Tomorrow.sublime-theme",
+	"theme_icons_flat": true,
+	"theme_icons_materialized": true
 }

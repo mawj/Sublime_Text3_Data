@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"Boxy Theme",
 		"BracketHighlighter",
 		"ChineseLocalizations",
 		"Package Control",
